@@ -3,6 +3,8 @@
 **Combi Chest** is a Tampermonkey userscript designed to enhance your workflow.  
 This repository contains the script file `combi-chest.user.js`, which can be installed directly into Tampermonkey.
 
+
+![CombiChest Tool](https://i.ibb.co/ccwXgKGP/Combi-Chest-Tool-Pic.png)
 ---
 
 ## Installation
