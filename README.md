@@ -15,7 +15,7 @@ This repository contains the script file `combi-chest.user.js`, which can be ins
 2. Open the direct installation link to the script:
 
    **Install Userscript:**  
-   [https://raw.githubusercontent.comIchKannNichts/torn-chest-helper/main/combi-chest.user.js](https://raw.githubusercontent.com/IchKannNichts/torn-chest-helper/main/combi-chest.user.js
+   [CombiChest Helper Install](https://raw.githubusercontent.com/IchKannNichts/torn-chest-helper/main/combi-chest.user.js
 )
 
 3. Tampermonkey will automatically open an installation dialog.  
