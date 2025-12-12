@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Torn.com Christmas Chest Helper
+// @name         Christmas CombiChest Helper
 // @namespace    https://github.com/IchKannNichts/torn-chest-helper
 // @version      1.5.7
 // @description  Adds a top‑most “Reset” button that clears all selections. The Reset button shares the initial background colour of the nine number buttons and retains it permanently.
